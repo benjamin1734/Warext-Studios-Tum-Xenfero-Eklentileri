@@ -59,12 +59,12 @@ def main() -> None:
             if repo_url not in line or not line.startswith("|"):
                 continue
 
-            cells = line.split(" | ")
-            if len(cells) < 6:
+            cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+            if len(cells) != 4:
                 raise RuntimeError(f"README tablo satırı beklenen biçimde değil: {line}")
 
-            cells[3] = f"**{stamp}**"
-            lines[index] = " | ".join(cells)
+            cells[2] = f"**{stamp}**"
+            lines[index] = "| " + " | ".join(cells) + " |"
             found = True
             break
 
