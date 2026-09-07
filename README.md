@@ -2,7 +2,7 @@
 
 Warext Studios tarafından geliştirilen XenForo eklentilerine hızlıca ulaşabileceğiniz ana katalog reposudur. Her eklentinin kaynak koduna, güncel sürümüne ve kurulum dosyalarına ilgili proje sayfasından erişebilirsiniz.
 
-> **Son güncelleme** bilgileri ilgili eklentinin GitHub reposundaki son commit zamanı esas alınarak **Türkiye saati (TSİ)** ile gösterilir.
+> **Son güncelleme** bilgileri ilgili eklentinin GitHub reposundaki son commit zamanı esas alınarak **Türkiye saati (TSİ)** ile gösterilir. Henüz kararlı sürüme ulaşmamış projeler başlıklarında **(Yapım Aşamasında)** ifadesiyle belirtilir.
 
 ## Eklentiler
 
@@ -15,7 +15,7 @@ Warext Studios tarafından geliştirilen XenForo eklentilerine hızlıca ulaşab
 | **Hata Bildirim Sistemi** | Kullanıcıların bulundukları sayfadan teknik bilgilerle birlikte hata raporu göndermesini ve raporların ACP üzerinden takip edilmesini sağlar. | **07.09.2026 10:48** | [Repo](https://github.com/benjamin1734/Warext-Studios-Xenfero-Hata-Bildirim-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-Xenfero-Hata-Bildirim-Sistemi/releases) |
 | **Minecraft Sunucu & Vote Sistemi** | Minecraft sunucularını listeleme, durum ve sıralama takibi, güvenli oy verme ve NuVotifier entegrasyonunu XenForo içerisine taşır. | **07.09.2026 11:41** | [Repo](https://github.com/benjamin1734/Warext-Studios-XenForo-Minecraft-Sunucu-Vote-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-XenForo-Minecraft-Sunucu-Vote-Sistemi/releases) |
 | **Portfolyo Sistemi** | Üyelerin görsel ve 3D çalışmalarını güvenlik kontrolleri, moderasyon ve sosyal etkileşim özellikleriyle yayınlamasını sağlar. | **07.09.2026 11:50** | [Repo](https://github.com/benjamin1734/Warext-Studios-Xenfero-Portfolyo-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-Xenfero-Portfolyo-Sistemi/releases) |
-| **Moderasyon Denetim Sistemi** | Moderasyon işlemlerini kanıtlarıyla kayıt altına alır; kör denetim, çoklu değerlendirme, itiraz ve yönetim analitiği sunar. | **07.09.2026 11:34** | [Repo](https://github.com/benjamin1734/Warext-Studios-XenForo-Moderasyon-Denetim-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-XenForo-Moderasyon-Denetim-Sistemi/releases) |
+| **Moderasyon Denetim Sistemi (Yapım Aşamasında)** | Moderasyon işlemlerini kanıtlarıyla kayıt altına alır; kör denetim, çoklu değerlendirme, itiraz ve yönetim analitiği sunar. | **07.09.2026 11:34** | [Repo](https://github.com/benjamin1734/Warext-Studios-XenForo-Moderasyon-Denetim-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-XenForo-Moderasyon-Denetim-Sistemi/releases) |
 | **S.S.S. Sistemi** | XenForo için kategori tabanlı, ACP üzerinden yönetilebilen ve kullanıcı grubu görünürlüğü destekleyen bir sıkça sorulan sorular sistemi ekler. | **07.09.2026 10:57** | [Repo](https://github.com/benjamin1734/Warext-Studios-XenForo-S.S.S.-Sistemi) · [Releases](https://github.com/benjamin1734/Warext-Studios-XenForo-S.S.S.-Sistemi/releases) |
 
 ## Kullanım
