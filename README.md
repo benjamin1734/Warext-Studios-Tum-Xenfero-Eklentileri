@@ -4,7 +4,7 @@ Warext Studios tarafından geliştirilen XenForo eklentilerine hızlıca ulaşab
 
 > **Sürüm** ve **son güncelleme** bilgileri ilgili eklentinin güncel GitHub reposu esas alınarak tutulur. Tarih ve saatler **Türkiye saati (TSİ)** ile gösterilir.
 >
-> **Katalog son senkronizasyonu:** 10.09.2026 16:45 TSİ
+> **Katalog son senkronizasyonu:** 10.09.2026 19:10 TSİ
 
 ## Eklentiler
 
