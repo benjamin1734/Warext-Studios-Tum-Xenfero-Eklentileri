@@ -6,7 +6,7 @@ This repository is the central catalog for XenForo add-ons developed by Warext S
 
 > **Version** information is maintained according to each add-on's current GitHub repository and published packages.
 >
-> **Catalog layout updated:** 18.09.2026
+> **Catalog layout updated:** 26.09.2026
 
 ### Add-ons
 
@@ -47,7 +47,7 @@ Warext Studios tarafından geliştirilen XenForo eklentilerine hızlıca ulaşab
 
 > **Sürüm** bilgileri ilgili eklentinin güncel GitHub reposu ve yayınlanan paketleri esas alınarak tutulur.
 >
-> **Katalog düzeni güncellendi:** 18.09.2026
+> **Katalog düzeni güncellendi:** 26.09.2026
 
 ### Eklentiler
 
